@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-
+//categorias
 const categoriaSchema = mongoose.Schema(
     {
   Imagen : {
